@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5896d1f0f5600e67b7d42d89"},"name":"PS4 Pro","price":500.0,"complete":"false"}
+{"_id":{"$oid":"58978c70e857521f96c08cdc"},"name":"PayPal","price":1200.0,"complete":false}
+{"_id":{"$oid":"58978c82e857521f96c08cdd"},"name":"PS VR","price":700.0,"complete":false}
+{"_id":{"$oid":"58978ce8e857521f96c08cde"},"name":"Credit Card","price":1100.0,"complete":false}
+{"_id":{"$oid":"58978d5ce857521f96c08cdf"},"name":"Cruise","price":1500.0,"complete":"false"}
+{"_id":{"$oid":"589792d6e857521f96c08ce0"},"name":"Cat","price":{"$numberLong":"100"},"complete":false}
+{"_id":{"$oid":"5897da90e857521f96c08ce2"},"name":"Bar Cart","price":110.0,"complete":false}
+{"_id":{"$oid":"589a5fe86c57acb29ef3bd68"},"name":"Helix Mattress","price":{"$numberLong":"1000"}}
+
